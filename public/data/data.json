@@ -1,0 +1,225 @@
+{
+  "stocks": [
+    {
+      "image": "/images/scottiebarnes1.jpg",
+      "symbol": "SCOTI",
+      "about": "Scottie Barnes is a Canadian professional basketball player who plays for the Toronto Raptors in the NBA. Known for his versatility and defensive prowess, Barnes was named the NBA Rookie of the Year in 2022.",
+      "name": "Scottie Barnes",
+      "price": "$450.75",
+      "change": "-50 (-10.00%)",
+      "chartData": [3.5, 3.3, 3.1, 3.0, 2.8, 2.6, 2.4],
+      "category": "Basketball Player",
+      "performance": {
+        "2022": "Missed Analysts Yearly Targets",
+        "2023": "Exceeded Expectations",
+        "2024": "Improving Performance"
+      },
+      "recommendation": "Sell"
+    },
+    {
+      "image": "/images/bellapoarch1.jpg",
+      "symbol": "BP",
+      "about": "Bella Poarch is a Filipino-American social media personality and singer, best known for her lip-sync videos on TikTok, especially her viral video to the song 'Sophie Aspin Send.' She has gained millions of followers and launched a music career.",
+      "name": "Bella Poarch",
+      "price": "$300.40",
+      "change": "+50 (+19.92%)",
+      "chartData": [4.0, 4.1, 4.2, 4.3, 4.5, 4.6, 4.7],
+      "category": "TikTok Star & Singer",
+      "performance": {
+        "2022": "Exceeded Analysts Yearly Targets",
+        "2023": "Achieved Analysts Yearly Targets",
+        "2024": "Expanding Career"
+      },
+      "recommendation": "Buy"
+    },
+    {
+      "image": "/images/milliebobbybrown1.jpg",
+      "symbol": "MBB",
+      "about": "Millie Bobby Brown is an English actress and producer. She gained fame for her portrayal of Eleven in the hit Netflix series 'Stranger Things.' Brown has also ventured into production and a successful modeling career.",
+      "name": "Millie Bobby Brown",
+      "price": "$850.60",
+      "change": "+100 (+13.32%)",
+      "chartData": [3.6, 3.8, 4.0, 4.1, 4.3, 4.5, 4.7],
+      "category": "Actress & Producer",
+      "performance": {
+        "2022": "Achieved Analysts Yearly Targets",
+        "2023": "Exceeded Analysts Yearly Targets",
+        "2024": "Strong Ongoing Projects"
+      },
+      "recommendation": "Strong Buy"
+    },
+    {
+      "image": "/images/billieeilish1.jpg",
+      "symbol": "BILI",
+      "about": "Billie Eilish is an American singer-songwriter known for her unique blend of pop, electronic, and alternative music. Eilish's debut album, 'When We All Fall Asleep, Where Do We Go?' won several Grammy Awards.",
+      "name": "Billie Eilish",
+      "price": "$950.40",
+      "change": "-200 (-17.39%)",
+      "chartData": [4.9, 4.7, 4.5, 4.3, 4.0, 3.8, 3.6],
+      "category": "Singer-Songwriter",
+      "performance": {
+        "2022": "Missed Analysts Yearly Targets",
+        "2023": "Achieved Analysts Yearly Targets",
+        "2024": "Highly Anticipated Releases"
+      },
+      "recommendation": "Sell"
+    },
+    {
+      "image": "/images/mrbeast1.jpg",
+      "symbol": "BEAST",
+      "about": "Jimmy Donaldson, better known as MrBeast, is an American YouTuber known for his elaborate challenges, charity work, and philanthropic efforts. His channel has grown to become one of the most-subscribed on YouTube.",
+      "name": "MrBeast",
+      "price": "$1,200.10",
+      "change": "+300 (+33.33%)",
+      "chartData": [4.5, 4.6, 4.8, 5.0, 5.2, 5.5, 5.8],
+      "category": "YouTuber & Philanthropist",
+      "performance": {
+        "2022": "Exceeded Expectations",
+        "2023": "Exceeded Analysts Yearly Targets",
+        "2024": "Dominating Online Space"
+      },
+      "recommendation": "Strong Buy"
+    }
+  ],
+
+
+
+"news": [
+  {
+    "title": "Taylor Swift concerts to generate $282M economic boost for Toronto: report",
+    "summary": "Destination Toronto says approximately 240,000 people will attend 6 Rogers Centre dates",
+    "time": "12:43 PM",
+    "date": "Oct 15",
+    "image": "/images/ts.jpg",
+    "link": "https://www.cbc.ca/news/canada/toronto/taylor-swift-economic-impact-1.7352467"
+
+  },
+  {
+    "title": "Alphonso Davies’ agent denies Marca report that the Canada star has signed agreement with Real Madrid",
+    "summary": "Is Marca say Alphonso Davies headed to Real Madrid??",
+    "time": "04:05 PM",
+    "date": "Nov 13",
+    "image": "/images/ts.jpg",
+    "link": "https://canadiansoccerdaily.com/2024/11/17/alphonso-davies-agent-denies-marca-report-that-the-canada-star-has-signed-agreement-with-real-madrid/"
+  },
+
+  {
+    "title": "Elon Musk dodges $258 billion Dogecoin lawsuit as investors drop appeal",
+    "summary": "Litigation ends as both sides agree to dismiss allegations and associated sanctions against each other.",
+    "time": "09:30 AM",
+    "date": "Nov 15",
+    "image": "/images/ts.jpg",
+    "link": "https://cryptobriefing.com/dogecoin-lawsuit-dismissal-elon-musk/"
+  }
+
+  ,
+
+  {
+    "title": "Major Trump Media Shareholder Offloads Nearly Entire Stake",
+    "summary": " ARC Global Investments and its founder Patrick Orlando have offloaded nearly their entire stake in DJT",
+    "time": "03:00 PM",
+    "date": "Nov 15",
+    "image": "/images/ts.jpg",
+    "link": "https://www.forbes.com/sites/tylerroush/2024/11/15/major-trump-media-shareholder-offloads-nearly-entire-stake/"
+  }
+
+  ,
+
+  {
+    "title": "How much money did Mike Tyson and Jake Paul make for their big fight?",
+    "summary": "Jake Paul slugged it out with Mike Tyson on Friday in a matchup that was livestreamed worldwide on Netflix.",
+    "time": "03:00 PM",
+    "date": "Nov 15",
+    "image": "/images/ts.jpg",
+    "link": "https://finance.yahoo.com/news/much-money-mike-tyson-jake-180251102.html"
+  }
+]
+
+    
+    
+    
+    ,
+    "hotProperties": [
+      {
+        "image": "/images/ts1.jpg",
+        "symbol": "TAY",
+        "about": "Taylor Alison Swift is an American singer-songwriter. Known for her biographical songwriting, artistic reinventions, and cultural impact, Swift is a leading figure in popular music and the subject of widespread public interest.",
+        "name": "Taylor Swift",
+        "price": "$900.83",
+        "change": "+200 (+30.08%)",
+        "chartData": [2.9, 3.1, 3.5, 3.36, 3.8, 3.9, 4.0],
+        "category": "Singer",
+        "performance": {
+          "2022": "Achieved Analysts Yearly Targets",
+          "2023": "Missed Analysts Yearly Targets",
+          "2024": "Achieved Analysts Yearly Targets"
+        },
+        "recommendation": "Strong Buy"
+      },
+      {
+        "image": "/images/jakepaul1.jpg",
+        "symbol": "JP",
+        "about": "Jake Paul is an American social media influencer, professional boxer, and actor. He rose to fame on Vine and YouTube, later transitioning to a boxing career with multiple high-profile matches.",
+        "name": "Jake Paul",
+        "price": "$200.45",
+        "change": "-50 (-20.00%)",
+        "chartData": [3.5, 4.0, 4.1, 3.8, 3.4, 3.1, 2.9],
+        "category": "YouTuber & Boxer",
+        "performance": {
+          "2022": "Exceeded Expectations",
+          "2023": "Stable Performance",
+          "2024": "Facing Challenges"
+        },
+        "recommendation": "Hold"
+      },
+      {
+        "image": "/images/ronaldo1.jpg",
+        "symbol": "CR7",
+        "about": "Cristiano Ronaldo is a Portuguese professional footballer widely regarded as one of the greatest players in the history of the sport. He has won numerous awards including five Ballon d'Or titles.",
+        "name": "Cristiano Ronaldo",
+        "price": "$1,200.50",
+        "change": "+150 (+14.30%)",
+        "chartData": [3.8, 4.2, 4.5, 4.3, 4.1, 4.0, 4.4],
+        "category": "Footballer",
+        "performance": {
+          "2022": "Achieved Analysts Yearly Targets",
+          "2023": "Exceeded Analysts Yearly Targets",
+          "2024": "Achieved Analysts Yearly Targets"
+        },
+        "recommendation": "Strong Buy"
+      },
+      {
+        "image": "/images/donaldtrump1.jpg",
+        "symbol": "TRUMP",
+        "about": "Donald Trump is a businessman, television personality, and the 45th president of the United States. Known for his controversial political career and public persona.",
+        "name": "Donald Trump",
+        "price": "$500.00",
+        "change": "+100 (+25.00%)",
+        "chartData": [2.5, 2.9, 3.0, 3.3, 3.5, 3.8, 4.0],
+        "category": "Politician & Businessman",
+        "performance": {
+          "2022": "Achieved Analysts Yearly Targets",
+          "2023": "Exceeded Expectations",
+          "2024": "Facing Legal Challenges"
+        },
+        "recommendation": "Hold"
+      },
+      {
+        "image": "/images/jasonmamoa1.jpg",
+        "symbol": "MOMOA",
+        "about": "Jason Momoa is an American actor, producer, and model. Known for his roles in 'Aquaman,' 'Game of Thrones,' and other blockbuster films, Momoa is celebrated for his rugged charm and charisma.",
+        "name": "Jason Momoa",
+        "price": "$700.22",
+        "change": "+120 (+20.70%)",
+        "chartData": [3.4, 3.6, 3.9, 4.0, 4.2, 4.3, 4.5],
+        "category": "Actor",
+        "performance": {
+          "2022": "Exceeded Analysts Yearly Targets",
+          "2023": "Achieved Analysts Yearly Targets",
+          "2024": "Stable Performance"
+        },
+        "recommendation": "Buy"
+      }
+    ]
+  }
+  

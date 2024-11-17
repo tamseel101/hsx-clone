@@ -1,0 +1,58 @@
+.details-page {
+    padding: 20px;
+  }
+  
+  .details-page header {
+    text-align: center;
+  }
+  
+  .details-page .category {
+    font-style: italic;
+    color: gray;
+  }
+  
+  .details-page .chart-wrapper {
+    margin: 20px auto;
+    width: 80%;
+    height: 300px;
+  }
+  
+  .details-page .recommendation {
+    margin: 20px 0;
+    text-align: center;
+  }
+  
+  .details-page .performance {
+    margin: 20px 0;
+  }
+  
+  .details-page .performance ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .details-page .performance li {
+    margin: 5px 0;
+  }
+  
+  .details-page .performance li.achieved {
+    color: green;
+  }
+  
+  .details-page .performance li.missed {
+    color: red;
+  }
+  
+  .details-page button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .details-page button:hover {
+    background: #0056b3;
+  }
+  

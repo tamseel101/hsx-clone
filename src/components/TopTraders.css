@@ -1,0 +1,18 @@
+/* src/components/TopTraders.css */
+.top-traders {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    margin: 20px 0;
+  }
+  
+  .top-traders ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .top-traders li {
+    margin: 10px 0;
+  }
+  

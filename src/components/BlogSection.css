@@ -1,0 +1,74 @@
+/* BlogSection.css */
+.blog-section {
+  background-color: #ffffff; /* Match section background */
+  border-radius: 10px; /* Match the section radius */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin: 20px;
+  flex: 1;
+}
+
+.blog-section h2 {
+  font-size: 1.5rem;
+  margin-bottom: 15px;
+  border-bottom: 2px solid #e0e0e0;
+  padding-bottom: 10px;
+  color: #333;
+}
+
+.blog-block {
+  display: flex;
+  align-items: stretch; /* Align image and text side by side */
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  padding: 10px 15px; /* Reduce padding for a sleeker look */
+  text-decoration: none;
+  color: inherit;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ddd;
+  height: auto; /* Ensure blocks adjust dynamically */
+  max-height: 120px; /* Enforce a limit on the height to make it rectangular */
+  min-width: 300px; /* Ensures blocks are slightly wider */
+}
+
+.blog-block:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.blog-image {
+  width: 80px; /* Ensure the image stays proportionate */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 5px;
+  margin-right: 15px;
+  border: 1px solid #ccc;
+}
+
+.blog-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; /* Spread the content within the block height */
+}
+
+.blog-content h4 {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: bold;
+  color: #333;
+  text-align: left;
+}
+
+.summary {
+  font-size: 0.9rem;
+  color: #666;
+  margin: -2px 0; /* Smaller spacing for a cleaner look */
+  text-align: left;
+}
+
+.details {
+  font-size: 0.8rem;
+  color: #999;
+  margin: 0; /* Reduce bottom spacing */
+  text-align: left;
+}

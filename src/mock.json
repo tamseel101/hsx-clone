@@ -1,0 +1,21 @@
+[
+    {
+      "image": "/images/s1.jpg",
+      "title": "",
+      "subTitle": "Start Investing Today!!!",
+      "interval": 1500
+    },
+    {
+      "image": "/images/s2.jpg",
+      "title": "Rosa Maria",
+      "subTitle": "Rosa Maria is a newly emerging star who gained popularity through her makeup tutorials on TikTok. In her videos, she teaches her audience new makeup styles and shares tips on how to run a makeup boutique. Invest now so she can start expanding her boutique chain.",
+      "interval": 500
+    },
+    {
+      "image": "/images/s3.jpg",
+      "title": "Jimmy Doe",
+      "subTitle": "Jimmy Doe is a CEO and entrepreneur who started a startup in artificial intelligence that helps people with visual impairments using specially designed headsets. Invest in him now so he can expand his business.",
+      "interval": 2500
+    }
+  ]
+

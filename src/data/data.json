@@ -1,0 +1,18 @@
+{
+    "stocks": [
+      { "name": "Kanguva", "price": "$2.83", "change": "-0.06 (-2.08%)", "date": "Nov 13, 2024" },
+      { "name": "Red One", "price": "$84.89", "change": "-1.89 (-2.18%)", "date": "Nov 15, 2024" },
+      { "name": "A Real Pain", "price": "$85.81", "change": "-0.04 (-0.69%)", "date": "Nov 15, 2024" }
+    ],
+    "news": [
+      { "title": "New trailer for Better Man", "time": "04:26 PM", "date": "Nov 13" },
+      { "title": "First trailer for The Room Next Door", "time": "04:05 PM", "date": "Nov 13" },
+      { "title": "First look at The Last Showgirl", "time": "04:07 PM", "date": "Nov 13" }
+    ],
+    "hotProperties": [
+      { "name": "The Man with the Bag", "studio": "Amazon", "price": "$27.48", "change": "+2.18 (8.72%)" },
+      { "name": "Famous", "studio": "A24", "price": "$19.34", "change": "-1.20 (-5.84%)" },
+      { "name": "Rule Breakers", "studio": "Angel Studios", "price": "$6.66", "change": "+0.94 (16.73%)" }
+    ]
+  }
+  

@@ -1,0 +1,74 @@
+/* Overall Header Styling */
+.header {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .navbar {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Soft shadow for a clean look */
+    background-color: #000 !important; /* Black background for the navbar */
+    border-bottom: 1px solid #e6e6e6; /* Light border for separation */
+  }
+  
+  .navbar-brand div {
+    text-align: left;
+  }
+  
+  .brand-name {
+    font-size: 2rem;
+    color: gold; /* Gold color for the brand name */
+    font-weight: 600;
+    text-transform: uppercase; /* Adds a modern feel */
+  }
+  
+  .brand-tagline {
+    font-size: 1rem;
+    color: #ccc; /* Light grey color for the tagline */
+    font-style: italic;
+  }
+  
+  /* Navigation Links */
+  .nav-link {
+    font-weight: 500;
+    font-size: 1rem;
+    color: gold !important; /* Gold color for links */
+  }
+  
+  .nav-link:hover {
+    color: #ffd700 !important; /* Change to a brighter gold color on hover */
+  }
+  
+  /* Buttons */
+  button {
+    border-radius: 30px; /* Smooth, modern rounded buttons */
+  }
+  
+  button:hover {
+    transform: translateY(-2px); /* Subtle hover animation */
+  }
+  
+  button:focus {
+    box-shadow: none; /* Remove focus outline */
+  }
+  
+  /* Authentication Buttons - Outline */
+  button.outline-warning {
+    border-color: gold;
+    color: gold;
+  }
+  
+  button.outline-warning:hover {
+    background-color: gold;
+    color: black; /* Dark text on hover */
+  }
+  
+  /* Sign Up Button */
+  button.warning {
+    background-color: gold;
+    border-color: gold;
+  }
+  
+  button.warning:hover {
+    background-color: #b8860b; /* Darker gold on hover */
+    border-color: #b8860b;
+  }
+  

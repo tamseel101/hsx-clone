@@ -1,0 +1,24 @@
+/* src/components/OpeningThisWeek.css */
+.opening-this-week {
+    padding: 20px;
+    background-color: #222;
+    color: #fff;
+    border-radius: 8px;
+  }
+  
+  .movie-item {
+    margin-bottom: 15px;
+    padding: 10px;
+    border-bottom: 1px solid #444;
+  }
+  
+  .movie-item h3 {
+    margin: 0;
+    color: #ff6347;
+  }
+  
+  .movie-item span {
+    font-size: 12px;
+    color: #aaa;
+  }
+  
