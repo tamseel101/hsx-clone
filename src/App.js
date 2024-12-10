@@ -21,7 +21,7 @@ function App() {
       <Slider slides={slides}/>
 
       <div className="container">
-        <Section title="New Stars Added This Week" type="stocks" items={data.stocks} />
+        <Section title="Young Stars" type="stocks" items={data.stocks} />
         <Section title="Latest News" type="news" items={data.news} />
         <Section title="Trending Stars" type="hotProperties" items={data.hotProperties} />
       </div>

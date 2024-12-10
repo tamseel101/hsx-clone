@@ -87,39 +87,39 @@
 "news": [
   {
     "title": "Taylor Swift concerts to generate $282M economic boost for Toronto: report",
-    "summary": "Destination Toronto says approximately 240,000 people will attend 6 Rogers Centre dates",
+    "summary": "",
     "time": "12:43 PM",
     "date": "Oct 15",
-    "image": "/images/ts.jpg",
+    "image": "/images/ts1.jpg",
     "link": "https://www.cbc.ca/news/canada/toronto/taylor-swift-economic-impact-1.7352467"
 
   },
   {
     "title": "Alphonso Davies’ agent denies Marca report that the Canada star has signed agreement with Real Madrid",
-    "summary": "Is Marca say Alphonso Davies headed to Real Madrid??",
+    "summary": "",
     "time": "04:05 PM",
     "date": "Nov 13",
-    "image": "/images/ts.jpg",
+    "image": "/images/ad.jpg",
     "link": "https://canadiansoccerdaily.com/2024/11/17/alphonso-davies-agent-denies-marca-report-that-the-canada-star-has-signed-agreement-with-real-madrid/"
   },
 
   {
     "title": "Elon Musk dodges $258 billion Dogecoin lawsuit as investors drop appeal",
-    "summary": "Litigation ends as both sides agree to dismiss allegations and associated sanctions against each other.",
+    "summary": "",
     "time": "09:30 AM",
     "date": "Nov 15",
-    "image": "/images/ts.jpg",
+    "image": "/images/em.jpg",
     "link": "https://cryptobriefing.com/dogecoin-lawsuit-dismissal-elon-musk/"
   }
 
   ,
 
   {
-    "title": "Major Trump Media Shareholder Offloads Nearly Entire Stake",
-    "summary": " ARC Global Investments and its founder Patrick Orlando have offloaded nearly their entire stake in DJT",
+    "title": "ARC Global Investments and its founder Patrick Orlando have offloaded nearly their entire stake in Trump Media",
+    "summary": " ",
     "time": "03:00 PM",
     "date": "Nov 15",
-    "image": "/images/ts.jpg",
+    "image": "/images/donaldtrump1.jpg",
     "link": "https://www.forbes.com/sites/tylerroush/2024/11/15/major-trump-media-shareholder-offloads-nearly-entire-stake/"
   }
 
@@ -127,10 +127,10 @@
 
   {
     "title": "How much money did Mike Tyson and Jake Paul make for their big fight?",
-    "summary": "Jake Paul slugged it out with Mike Tyson on Friday in a matchup that was livestreamed worldwide on Netflix.",
+    "summary": "Jake Paul slugged it out with Mike Tyson",
     "time": "03:00 PM",
     "date": "Nov 15",
-    "image": "/images/ts.jpg",
+    "image": "/images/mt.jpg",
     "link": "https://finance.yahoo.com/news/much-money-mike-tyson-jake-180251102.html"
   }
 ]
